@@ -6,6 +6,8 @@ para iniciar edita los datos en el archivo .env
 coloca los datos solicitados de la base de datos
 el programa usa postgres como motor de DB
 
+para iniciar el proyecto debe ejecutar el comando "npm init" y posterior "npm run dev"
+
 para que el codigo funcione es necesario tener en cuenta las siguientes rutas 
 
 
